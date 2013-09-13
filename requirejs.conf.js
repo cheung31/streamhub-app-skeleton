@@ -14,10 +14,10 @@ requirejs.config({
     location: 'lib/streamhub-sdk/src'
   },
   {
-	name: "<YOUR APP NAME>",
+	name: "streamhub-<%= appName %>",
   	location: "./src"
   },{
-    name: '<YOUR APP NAME>-tests',
+    name: 'streamhub-<%= appName %>-tests',
     location: './tests/'
   }
   ],
