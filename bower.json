@@ -1,0 +1,10 @@
+{
+  "name": "streamhub-<%= appName %>",
+  "version": "0.0.0",
+  "main": [
+    "./src/main.js"
+  ],
+  "dependencies": {
+    "streamhub-sdk": "git://github.com/Livefyre/streamhub-sdk.git#v1.2.0"
+  }
+}
