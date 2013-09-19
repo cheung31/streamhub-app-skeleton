@@ -1,4 +1,5 @@
 requirejs.config({
+  baseUrl: '/',
   paths: {
     jquery: 'lib/jquery/jquery',
 	jasmine: 'lib/jasmine/lib/jasmine-core/jasmine',

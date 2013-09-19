@@ -5,6 +5,16 @@
     "./src/main.js"
   ],
   "dependencies": {
-    "streamhub-sdk": "git://github.com/Livefyre/streamhub-sdk.git#v1.2.0"
+    "streamhub-sdk": "git://github.com/Livefyre/streamhub-sdk.git#v1.2.0",
+    "jquery": "~1.9.1",
+    "hogan": "latest",
+    "requirejs": "~2.1.5",
+    "requirejs-text": "~2.0.5",
+    "requirejs-hogan-plugin": "git://github.com/millermedeiros/requirejs-hogan-plugin.git#~0.2.1"
+  },
+  "devDependencies": {
+    "jasmine": "*",
+    "jasmine-jquery": "*",
+    "almond": "~0.2.5"
   }
 }
