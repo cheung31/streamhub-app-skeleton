@@ -19,5 +19,15 @@
     "jasmine": "*",
     "jasmine-jquery": "*",
     "almond": "~0.2.5"
+  },
+  "streamhub": {
+    "icon": "",
+    "iconHover": "",
+    "background": "",
+    "sampleImages": [
+      "",
+      "",
+      ""
+    ]
   }
 }
