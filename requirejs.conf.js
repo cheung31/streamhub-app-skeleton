@@ -29,7 +29,7 @@ requirejs.config({
     location: "lib/streamhub-sdk/src/modal"
   },{
     name: "streamhub-sdk-tests",
-    location: "lib/streamhub-sdk/src/streamhub-sdk/tests/"
+    location: "lib/streamhub-sdk/tests/"
   },{
     name: "stream",
     location: "lib/stream/src"
