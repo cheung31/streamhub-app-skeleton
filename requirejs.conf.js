@@ -37,9 +37,6 @@ requirejs.config({
   },{
 	name: "streamhub-<%= appName %>",
   	location: "./src"
-  },{
-    name: 'streamhub-<%= appName %>-tests',
-    location: './tests/'
   }],
   shim: {
     jasmine: {
